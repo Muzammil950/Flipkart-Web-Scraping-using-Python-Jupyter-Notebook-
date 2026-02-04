@@ -3,6 +3,11 @@ This project demonstrates web scraping using Python in a Jupyter Notebook. The n
 
 # Flipkart Web Scraping – Jupyter Notebook
 
+## 🎥 Project Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]
+(https://www.youtube.com/watch?v=VIDEO_ID)
+
 This repository contains a Jupyter Notebook that demonstrates how to scrape
 product review comments from Flipkart using Python.
 
