@@ -5,7 +5,7 @@ This project demonstrates web scraping using Python in a Jupyter Notebook. The n
 
 ## 🎥 Project Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]
+[![Watch the video](Web_Scrapping - Google Chrome 2026-02-04 15-26-59 (1) (1) (1).mp4)]
 (https://www.youtube.com/watch?v=VIDEO_ID)
 
 This repository contains a Jupyter Notebook that demonstrates how to scrape
